@@ -12,7 +12,8 @@ The goals of this kata are to:
     * how many nodes are wheelchair accessible?
     * how many attributes on average does a node have?
     * what is the most common attribute, besides ```amenity```?
-    * how many "types" are needed to represent the data, if the attributes can't be Null?
+    * how many "types" are needed to represent the data, if their attributes can't be Null?
+    * something else altogether?
 
 * have fun
 
