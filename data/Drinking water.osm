@@ -1,0 +1,335 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.55.5 2ca3f387">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2019-01-11T13:31:02Z"/>
+
+  <node id="300981047" lat="42.6429150" lon="23.1814420">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="is_in" v="Bulgaria"/>
+    <tag k="name" v="Каптаж"/>
+    <tag k="source" v="bgtopomaps"/>
+  </node>
+  <node id="300981607" lat="42.6999330" lon="23.3241330">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="drinking_water" v="yes"/>
+    <tag k="is_in" v="Bulgaria"/>
+    <tag k="name" v="Минерална вода"/>
+    <tag k="name:pl" v="Woda mineralna"/>
+    <tag k="natural" v="spring"/>
+    <tag k="source" v="bgtopomaps"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="338790224" lat="42.6422840" lon="23.2665371">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="name" v="Боянската чешма"/>
+  </node>
+  <node id="415614654" lat="42.7139756" lon="23.2813179">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="556654290" lat="42.7063002" lon="23.2682029">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="556654430" lat="42.7069561" lon="23.2701942">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="562962387" lat="42.7030793" lon="23.2598097">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="drinking_water:seasonal" v="yes"/>
+  </node>
+  <node id="562962721" lat="42.7103955" lon="23.2769910">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="566898167" lat="42.7150121" lon="23.2832422">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="566898184" lat="42.7137635" lon="23.2841520">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="569115643" lat="42.6447735" lon="23.2656542">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="582645869" lat="42.7303270" lon="23.2789577">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="582645920" lat="42.7316805" lon="23.2758597">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="582646101" lat="42.7324686" lon="23.2807413">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="582890280" lat="42.6468713" lon="23.2669910">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="592005411" lat="42.6585188" lon="23.2412770">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="685954219" lat="42.6437547" lon="23.2597360">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="812072248" lat="42.6275486" lon="23.2577082">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="831692912" lat="42.6307798" lon="23.2250511">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="1300528698" lat="42.7017581" lon="23.3193154">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="1622107604" lat="42.6810312" lon="23.3067048">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="1654702204" lat="42.6522800" lon="23.3477361">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1829968729" lat="42.6816374" lon="23.3454950">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="1829969024" lat="42.6849366" lon="23.3427652">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="2032773744" lat="42.6402012" lon="23.2550069">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="2466650055" lat="42.6372557" lon="23.2702491">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="2466670789" lat="42.6435624" lon="23.2585679">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="2503296600" lat="42.7187539" lon="23.3660933">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="name" v="Чешма"/>
+  </node>
+  <node id="2508490436" lat="42.7177767" lon="23.3665730">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="2510450268" lat="42.7155525" lon="23.3674289">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="2510511619" lat="42.7053716" lon="23.2951117">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="2638444155" lat="42.6574365" lon="23.2358924">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="drinking_water" v="yes"/>
+  </node>
+  <node id="2661090144" lat="42.6975322" lon="23.3407197">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2773222150" lat="42.6597744" lon="23.2438352">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="2968979224" lat="42.6884783" lon="23.3384735">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="3001855208" lat="42.6270620" lon="23.2516148">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="3001875957" lat="42.6305274" lon="23.2660016">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="3267829837" lat="42.7277650" lon="23.3009491">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="3271030162" lat="42.7386472" lon="23.2989751">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="3381330206" lat="42.6357054" lon="23.1843027">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="3425025412" lat="42.6529904" lon="23.3661050">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="drinking_water" v="yes"/>
+    <tag k="name" v="Чешмата на Наплатанов"/>
+    <tag k="natural" v="spring"/>
+  </node>
+  <node id="3514065724" lat="42.6967724" lon="23.3265963">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="3624048041" lat="42.6746103" lon="23.3085330">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="3637344652" lat="42.6305253" lon="23.1935801">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="3770166836" lat="42.6676361" lon="23.3050127">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="3773010830" lat="42.6957527" lon="23.3247516">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="bottle" v="yes"/>
+    <tag k="indoor" v="no"/>
+  </node>
+  <node id="3773018112" lat="42.6946075" lon="23.3249108">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="bottle" v="yes"/>
+    <tag k="indoor" v="no"/>
+  </node>
+  <node id="3835042839" lat="42.6678193" lon="23.2660673">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="3838516978" lat="42.6463518" lon="23.1953941">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="name" v="Ловна чешма"/>
+  </node>
+  <node id="3840387717" lat="42.6446077" lon="23.2406090">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="3893157551" lat="42.6550000" lon="23.2127778">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="description" v="до навес"/>
+    <tag k="name" v="чешма"/>
+  </node>
+  <node id="4239678475" lat="42.6597864" lon="23.1805791">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4281481970" lat="42.6880593" lon="23.3192927">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4281484803" lat="42.6884145" lon="23.3388155">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4294804632" lat="42.6290330" lon="23.3093303">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4319774220" lat="42.6880689" lon="23.3371568">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4319784357" lat="42.6961970" lon="23.3282724">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4319815191" lat="42.6990930" lon="23.3234073">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="description" v="Hot thermal"/>
+    <tag k="description:es" v="agua termal"/>
+    <tag k="natural" v="spring"/>
+  </node>
+  <node id="4323285392" lat="42.6904296" lon="23.3267045">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4395837189" lat="42.6417588" lon="23.4332575">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4400646292" lat="42.6864615" lon="23.3202965">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4537802050" lat="42.6773098" lon="23.2367158">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="description" v="Mineral water"/>
+    <tag k="drinking_water" v="mineral"/>
+    <tag k="hot_water" v="yes"/>
+  </node>
+  <node id="4537856062" lat="42.6781511" lon="23.2451606">
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="description" v="Mineral water"/>
+    <tag k="hot_water" v="yes"/>
+  </node>
+  <node id="4537887395" lat="42.6768422" lon="23.2434869">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="hot_water" v="yes"/>
+  </node>
+  <node id="4587841675" lat="42.6902092" lon="23.3273089">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4623492603" lat="42.6739009" lon="23.2263619">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="drinking_water" v="yes"/>
+    <tag k="natural" v="spring"/>
+  </node>
+  <node id="4752659221" lat="42.6872475" lon="23.3389972">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4758232324" lat="42.6790198" lon="23.2993510">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4834240122" lat="42.6318917" lon="23.2763233">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4936478821" lat="42.6944483" lon="23.3297003">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4938157901" lat="42.6679932" lon="23.3619051">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4940823709" lat="42.6829003" lon="23.3182387">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4957497941" lat="42.6768290" lon="23.3046688">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4965961598" lat="42.6269606" lon="23.2930696">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="name" v="Лековитата чешма на Бай Сандо"/>
+  </node>
+  <node id="4966284735" lat="42.7585452" lon="23.1873924">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4966284959" lat="42.7619895" lon="23.1975311">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4972684445" lat="42.6970509" lon="23.3460694">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4975162257" lat="42.6945772" lon="23.3385859">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="5018238924" lat="42.6960198" lon="23.3524488">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="5130381180" lat="42.6996389" lon="23.3235621">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="description" v="Hot thermal"/>
+    <tag k="description:es" v="agua termal"/>
+    <tag k="natural" v="spring"/>
+  </node>
+  <node id="5223370587" lat="42.6415934" lon="23.2305934">
+    <tag k="alt_name" v="Белята вода"/>
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="is_in" v="Bulgaria"/>
+    <tag k="name" v="Бялата вода"/>
+    <tag k="source" v="bgtopomaps"/>
+  </node>
+  <node id="5258013959" lat="42.6862603" lon="23.3635697">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="5291701755" lat="42.7015499" lon="23.3094090">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="5343078125" lat="42.6270773" lon="23.2804157">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="5480454380" lat="42.6827283" lon="23.3225314">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="5584310521" lat="42.7042782" lon="23.3219584">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="5624020279" lat="42.6464706" lon="23.3715536">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="5640351821" lat="42.6989921" lon="23.3235455">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="description" v="Hot thermal"/>
+    <tag k="description:es" v="agua termal"/>
+    <tag k="natural" v="spring"/>
+  </node>
+  <node id="5691301022" lat="42.6958823" lon="23.3086158">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="5850694364" lat="42.7021511" lon="23.3009277">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="5920969170" lat="42.6689857" lon="23.3043971">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+
+</osm>
