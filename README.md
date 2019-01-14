@@ -20,9 +20,11 @@ The goals of this kata are to:
 
 
 
-
+P.S. The data was extracted via [overpass turbo]. 
 
 
 [OpenStreetMap]: https://www.openstreetmap.org/way/166216724
 
 [data]: https://github.com/lambda-dojo-sofia/open-street-map/blob/master/data/Drinking%20water.osm
+
+[overpass turbo]: https://overpass-turbo.eu/
